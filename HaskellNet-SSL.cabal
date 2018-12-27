@@ -44,6 +44,6 @@ library
                        HaskellNet >= 0.3 && < 0.6,
                        tls >= 1.2 && < 1.5,
                        connection >= 0.2.7 && < 0.3,
-                       network >= 2.4 && < 2.7,
+                       network >= 2.4 && < 2.9,
                        bytestring,
                        data-default
